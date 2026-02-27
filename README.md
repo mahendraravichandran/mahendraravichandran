@@ -11,35 +11,23 @@
 ---
 
 ## Snapshot
-SSecurity engineer with hands-on SOC experience and a graduate focus in Cybersecurity Analytics and Operations at Penn State. Skilled in detection engineering, incident response, and automation to improve security operations efficiency.
+Security engineer with hands-on SOC experience and a graduate focus in Cybersecurity Analytics and Operations at Penn State. Skilled in detection engineering, incident response, and automation to improve security operations efficiency.
 
 ## Strengths
-Detection engineering and alert tuning for high-fidelity alerts
-
-SOC triage and incident response execution
-
-Network traffic analysis and TCP/IP fundamentals
-
-Python/Bash scripting and security automation
-
-Secure coding and vulnerability-aware development
+- Detection engineering and alert tuning for high-fidelity alerts
+- SOC triage and incident response execution
+- Network traffic analysis and TCP/IP fundamentals
+- Python/Bash scripting and security automation
+- Secure coding and vulnerability-aware development
 
 ## Experience
-Workato — Security Operations Engineer
-Operated in a production SOC environment performing alert triage, endpoint investigations, and policy enforcement using tools such as SentinelOne and Zscaler. Improved detection quality through alert tuning and strengthened incident response workflows across endpoint and network telemetry.
+**Workato — Security Operations Engineer**
+- Operated in a production SOC environment performing alert triage, endpoint investigations, and policy enforcement using tools such as SentinelOne and Zscaler.
+- Improved detection quality through alert tuning and strengthened incident response workflows across endpoint and network telemetry.
 
-Trainocate — Security Lab Engineer
-Built and maintained networking lab environments aligned with CCNA concepts, including routing, switching, VLAN segmentation, and basic firewall configurations. Analyzed network traffic and IDS logs to reinforce understanding of TCP/IP behavior, packet flow, and threat detection in enterprise-style network setups.
-
-## Selected Projects
-<p align="center">
-  <a href="https://github.com/mahendraravichandran/LogSentinel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahendraravichandran&repo=LogSentinel&theme=tokyonight&hide_border=true" alt="LogSentinel"/>
-  </a>
-  <a href="https://github.com/mahendraravichandran/Portswigger-pyhton-exploytation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahendraravichandran&repo=Portswigger-pyhton-exploytation&theme=tokyonight&hide_border=true" alt="PortSwigger Automation"/>
-  </a>
-</p>
+**Trainocate — Security Lab Engineer**
+- Built and maintained networking lab environments aligned with CCNA concepts, including routing, switching, VLAN segmentation, and basic firewall configurations.
+- Analyzed network traffic and IDS logs to reinforce understanding of TCP/IP behavior, packet flow, and threat detection in enterprise-style network setups.
 
 ## Toolkit
 <p align="center">
