@@ -4,50 +4,48 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a> •
-  <a href="YOUR_RESUME_LINK">Resume</a>
+  <a href="https://github.com/mahendraravichandran"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/mahendraravi/"><img src="https://img.shields.io/badge/LinkedIn-Mahendra-blue?logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:mahiravi3690@gmail.com"><img src="https://img.shields.io/badge/Email-mahiravi3690@gmail.com-c14438?logo=gmail" alt="Email" /></a>
 </p>
 
 ---
 
-## What I’m building
-I build practical security projects that look like real SOC/detection engineering work:
-- Log parsing + feature engineering
-- Behavioral anomaly detection (baseline → deviation → alert)
-- Clean, modular Python projects recruiters can skim fast
+## 👋 About Me
+I’m a cybersecurity enthusiast currently studying at Penn State with hands-on experience in security operations, detection engineering, and application security. My passion lies in building realistic, analyst-friendly tools and automations that help teams spot suspicious behavior faster.
 
 ---
 
-## Featured work
+## 🔧 Experience & Tech Stack
+- **Languages:** Python (primary), Bash, SQL
+- **Security Tools:** Splunk, ELK/Elastic Stack, Wireshark
+- **Areas:** SOC analysis, behavioral anomaly detection, AppSec automation, web security labs
+- **Dev:** Git, Docker, Jupyter, modular scripting
+- **Certifications:** Blue Team Level 1 (BTL1)
+
+---
+
+## 🚀 Featured Projects
 ### 🔥 LogSentinel – Behavioral Anomaly-Based Lightweight IDS
-- Behavioral monitoring + anomaly detection pipeline (Python)
-- Baseline modeling + deviation-based alerting
-- Built for coursework + portfolio (SOC-style output)
+- Python pipeline for log ingestion, baseline modeling, and deviation alerts
+- Designed with SOC-style outputs for quick triage
+- Built as a portfolio highlight and academic project
 
-➡️ Repo: https://github.com/mahendraravichandran/LogSentinel
+➡️ [GitHub repo](https://github.com/mahendraravichandran/LogSentinel)
 
-### 🧪 PortSwigger (Python Automation)
-- Python scripts to solve PortSwigger Web Security Academy labs
-- Focus: exploitation practice + automation mindset
+### 🧪 PortSwigger Automation (Python)
+- Scripts to solve Web Security Academy labs automatically
+- Emphasizes exploitation practice and automation mindset
 
-➡️ Repo: https://github.com/mahendraravichandran/Portswigger-pyhton-exploytation
+➡️ [GitHub repo](https://github.com/mahendraravichandran/Portswigger-pyhton-exploytation)
 
 ### 📌 DSA Practice (Python)
-- Structured DSA practice in Python for interviews
-➡️ Repo: https://github.com/mahendraravichandran/DSA
+- Structured data structures & algorithms practice for interviews
+➡️ [GitHub repo](https://github.com/mahendraravichandran/DSA)
 
 ---
 
-## Skills
-- **Python** (automation, parsing, data handling)
-- **SOC analysis** (logs, suspicious behavior patterns, triage mindset)
-- **Web security** (PortSwigger labs: SQLi/auth/etc.)
-- **Detection engineering** (features → baseline → anomalies → alerts)
-
----
-
-## Quick Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahendraravichandran&show_icons=true" />
 </p>
@@ -57,10 +55,8 @@ I build practical security projects that look like real SOC/detection engineerin
 
 ---
 
-## Certification
-- Blue Team Level 1 (BTL1)
+## 📬 Contact Me
+- LinkedIn: https://www.linkedin.com/in/mahendraravi/
+- Email: mahiravi3690@gmail.com
 
----
-
-## Contact
-If you’re hiring for SOC / Detection Engineering / AppSec roles, feel free to reach out.
+Feel free to reach out if my experience aligns with your team or project!
