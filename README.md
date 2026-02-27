@@ -11,22 +11,25 @@
 ---
 
 ## Snapshot
-Security engineer with hands-on SOC experience and a graduate focus in Cybersecurity Analytics and Operations at Penn State. I build high-signal detections, resilient playbooks, and automation that keeps response sharp without burning out analysts.
+SSecurity engineer with hands-on SOC experience and a graduate focus in Cybersecurity Analytics and Operations at Penn State. Skilled in detection engineering, incident response, and automation to improve security operations efficiency.
 
 ## Strengths
-- Detection engineering and alert tuning for higher fidelity
-- Incident triage and response execution in SOC environments
-- Endpoint, network, and identity telemetry analysis
-- Playbook design and operational documentation
-- Python/Bash automation for repeatable security workflows
+Detection engineering and alert tuning for high-fidelity alerts
+
+SOC triage and incident response execution
+
+Network traffic analysis and TCP/IP fundamentals
+
+Python/Bash scripting and security automation
+
+Secure coding and vulnerability-aware development
 
 ## Experience
-**Workato** — Security Operations Engineer  
-- Alert triage, endpoint investigations, and policy enforcement in production environments.  
-- Detection tuning and workflow improvements to raise response quality.  
+Workato — Security Operations Engineer
+Operated in a production SOC environment performing alert triage, endpoint investigations, and policy enforcement using tools such as SentinelOne and Zscaler. Improved detection quality through alert tuning and strengthened incident response workflows across endpoint and network telemetry.
 
-**Trainocate** — Security Lab Engineer  
-- Built/maintained blue-team training labs; analyzed IDS and network telemetry for exercises.
+Trainocate — Security Lab Engineer
+Built and maintained networking lab environments aligned with CCNA concepts, including routing, switching, VLAN segmentation, and basic firewall configurations. Analyzed network traffic and IDS logs to reinforce understanding of TCP/IP behavior, packet flow, and threat detection in enterprise-style network setups.
 
 ## Selected Projects
 <p align="center">
