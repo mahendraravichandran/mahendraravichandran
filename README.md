@@ -16,45 +16,36 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3400&pause=1100&color=38BDF8&center=true&vCenter=true&width=1000&lines=I+design+security+workflows+people+actually+use.;I+turn+high-volume+alerts+into+high-signal+detections.;Ask+me+about+SOC+automation%2C+detection+tuning%2C+and+threat+hunting." alt="Typing Intro"/>
 </p>
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### Security Portfolio
+## Security Portfolio
 I am a cybersecurity professional and Penn State graduate student focused on practical SOC engineering.
 
 My work centers on incident triage, detection quality, and automation that helps analysts move faster with fewer false positives.
 
 If a runbook cannot be followed during an active incident, it is documentation, not operations.
 
-### Conversation Starters
+## Conversation Starters
 - How to reduce false positives without reducing detection depth
 - Designing SOC playbooks that analysts will actually follow
 - Moving from security scripts to reliable internal tooling
 - Building blue-team labs that simulate realistic attacker behavior
 
-### Current Focus
+## Current Focus
 - Detection engineering for endpoint and network telemetry
 - SOC process hardening and response consistency
 - Python automation for repetitive security workflows
 
-### Experience Snapshot
+## Experience Snapshot
 - Security Operations Engineer experience at Workato
 - Security lab engineering and IDS analysis at Trainocate
 - MPS in Cybersecurity Analytics and Operations, Penn State (GPA 3.89)
 
-</td>
-<td width="42%" valign="top">
+## SOC Notes (Slightly Witty)
+- I like detections with low false positives and high caffeine compatibility.
+- My favorite alert is the one that closes with confidence, not confusion.
+- "It works on my machine" is not part of any incident response framework I trust.
+- If the dashboard is green but analysts are panicking, we are measuring the wrong thing.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahendraravichandran&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-
-<img src="https://streak-stats.demolab.com?user=mahendraravichandran&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</td>
-</tr>
-</table>
-
-### Featured Work
+## Featured Work
 <p align="center">
   <a href="https://github.com/mahendraravichandran/LogSentinel">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahendraravichandran&repo=LogSentinel&theme=tokyonight&hide_border=true" alt="LogSentinel"/>
@@ -64,7 +55,7 @@ If a runbook cannot be followed during an active incident, it is documentation, 
   </a>
 </p>
 
-### Security Stack
+## Security Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,aws,docker,git,github,vscode&perline=8" alt="Skills"/>
 </p>
@@ -77,15 +68,6 @@ If a runbook cannot be followed during an active incident, it is documentation, 
   <img src="https://img.shields.io/badge/Zscaler-1474C4?style=flat-square" alt="Zscaler"/>
   <img src="https://img.shields.io/badge/Okta-007DC1?style=flat-square&logo=okta&logoColor=white" alt="Okta"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
-</p>
-
-### Contribution Pulse
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahendraravichandran&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahendraravichandran&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph"/>
 </p>
 
 ## Let's Connect
