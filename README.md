@@ -11,29 +11,30 @@
 ---
 
 ## About
-Security engineer with hands-on SOC experience and graduate training in Cybersecurity Analytics & Operations (Penn State). I focus on building high-signal detections, resilient playbooks, and automation that keeps response fast without burning out analysts.
+Security engineer with hands-on SOC experience, networking fundamentals, and graduate training in Cybersecurity Analytics & Operations (Penn State). I focus on building high-signal detections, resilient playbooks, secure-by-default code paths, and automation that keeps response fast without burning out analysts.
 
 ## Core Impact
 - Raise detection fidelity and cut false positives through targeted tuning
 - Design incident playbooks that are usable under pressure
 - Automate repetitive SOC workflows with Python/Bash
 - Investigate endpoint, network, and identity telemetry with a threat-first mindset
+- Apply secure coding practices to reduce exploitable surface in tooling and scripts
 
 ## Experience
 **Workato - Security Operations Engineer**  
 - Frontline alert triage, endpoint investigations, and policy enforcement (SentinelOne, Zscaler).  
-- Improved detection quality and response workflows across endpoint and network telemetry.  
+- Improved detection quality and response workflows across endpoint and network telemetry; collaborated with engineering to harden controls.  
 
 **Trainocate - Security Lab Engineer**  
 - Built/maintained blue-team labs aligned to CCNA networking fundamentals.  
 - Analyzed IDS and packet data to strengthen TCP/IP and threat detection skills.  
 
 ## Strengths
-- Detection engineering and alert tuning
+- Detection engineering and alert tuning (SIEM/SOAR)
 - SOC triage and incident response execution
-- Network traffic analysis and TCP/IP fundamentals
+- Network traffic analysis, packet captures, and TCP/IP fundamentals
 - Security automation with Python and Bash
-- Secure coding and vulnerability-aware development
+- Secure coding and vulnerability-aware development (linting, dependency hygiene, code review)
 
 ## Toolkit
 `Splunk` `OpenSearch` `Elastic Stack` `SentinelOne` `Zscaler` `Okta` `Wireshark` `Python` `Bash` `Linux` `Docker` `AWS` `Git`
@@ -50,5 +51,5 @@ Security engineer with hands-on SOC experience and graduate training in Cybersec
 - Burp Suite track (in progress)
 
 ## Let's Talk
-I'm interested in Security Engineer and Detection Engineer roles.  
+I have operated in SOC environments and I'm interested in Security Engineer roles focused on SOC operations and network security.  
 Reach out on LinkedIn or email; best discussions start with a real problem statement and end with a better runbook.
