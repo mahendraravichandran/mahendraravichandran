@@ -21,11 +21,11 @@ Security engineer with hands-on SOC experience and a graduate focus in Cybersecu
 - Secure coding and vulnerability-aware development
 
 ## Experience
-**Workato — Security Operations Engineer**
+**Workato: Security Operations Engineer**
 - Operated in a production SOC environment performing alert triage, endpoint investigations, and policy enforcement using tools such as SentinelOne and Zscaler.
 - Improved detection quality through alert tuning and strengthened incident response workflows across endpoint and network telemetry.
 
-**Trainocate — Security Lab Engineer**
+**Trainocate: Security Lab Engineer**
 - Built and maintained networking lab environments aligned with CCNA concepts, including routing, switching, VLAN segmentation, and basic firewall configurations.
 - Analyzed network traffic and IDS logs to reinforce understanding of TCP/IP behavior, packet flow, and threat detection in enterprise-style network setups.
 
@@ -47,7 +47,7 @@ Security engineer with hands-on SOC experience and a graduate focus in Cybersecu
 ## Certifications
 - AWS Solutions Architect Associate
 - Blue Team Level 1
-- CompTIA Security+ (targeted)
+- CompTIA Security+ 
 - CCNA (in progress)
 - Burp Suite track (in progress)
 
