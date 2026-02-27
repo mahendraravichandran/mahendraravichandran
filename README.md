@@ -18,6 +18,7 @@ Security engineer with hands-on SOC experience, networking fundamentals, and gra
 - Automate repetitive SOC and incident response workflows with Python/Bash
 - Investigate endpoint, network, and identity telemetry with a threat-first mindset
 - Apply secure coding practices to reduce exploitable surface in tooling and scripts
+- Design network-aware detections that account for routing, segmentation, and east-west traffic
 
 ## Experience
 **Workato - Security Operations Engineer**  
@@ -31,7 +32,7 @@ Security engineer with hands-on SOC experience, networking fundamentals, and gra
 ## Strengths
 - Incident response and SOC triage (SIEM/SOAR)
 - Detection engineering and alert tuning
-- Network traffic analysis, packet captures, and TCP/IP fundamentals
+- Network traffic analysis, packet captures, and TCP/IP fundamentals (routing, switching, VLANs)
 - Security automation with Python and Bash
 - Secure coding and vulnerability-aware development (linting, dependency hygiene, code review)
 
@@ -42,10 +43,15 @@ Security engineer with hands-on SOC experience, networking fundamentals, and gra
 - **LogSentinel** - Behavioral anomaly IDS for SOC-style log monitoring. [View](https://github.com/mahendraravichandran/LogSentinel)
 - **PortSwigger Automation** - Python automation for Web Security Academy labs. [View](https://github.com/mahendraravichandran/Portswigger-pyhton-exploytation)
 
-## GitHub Snapshot
+## Networking Focus
+- Packet capture and analysis for threat hunting (tcpdump/Wireshark filters, PCAP triage)
+- Routing/switching fundamentals with VLAN segmentation and ACL hygiene
+- IDS/IPS tuning for noisy networks without losing true positives
+- Zero-trust-aligned access control: least-privilege and policy reviews
+
+## Visual
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=mahendraravichandran&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="155" src="https://streak-stats.demolab.com?user=mahendraravichandran&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://svg-banners.vercel.app/api?type=origin&text=Packets%20Tell%20Stories&width=900&height=180" alt="Packets tell stories banner"/>
 </p>
 
 ## Certifications
