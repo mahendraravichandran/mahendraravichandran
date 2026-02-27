@@ -39,6 +39,13 @@ Security engineer with hands-on SOC experience, networking fundamentals, and gra
 ## Toolkit
 `Splunk` `OpenSearch` `Elastic Stack` `SentinelOne` `Zscaler` `Okta` `Wireshark` `Python` `Bash` `Linux` `Docker` `AWS` `Git`
 
+## Quick Snapshot
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC%20Experience-Frontline-blueviolet?style=for-the-badge" alt="SOC Experience"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-Hands%20On-0ea5e9?style=for-the-badge" alt="Incident Response"/>
+  <img src="https://img.shields.io/badge/Networking-CCNA%20Track-22c55e?style=for-the-badge" alt="Networking CCNA"/>
+</p>
+
 ## Featured Projects
 - **LogSentinel** - Behavioral anomaly IDS for SOC-style log monitoring. [View](https://github.com/mahendraravichandran/LogSentinel)
 - **PortSwigger Automation** - Python automation for Web Security Academy labs. [View](https://github.com/mahendraravichandran/Portswigger-pyhton-exploytation)
@@ -48,11 +55,6 @@ Security engineer with hands-on SOC experience, networking fundamentals, and gra
 - Routing/switching fundamentals with VLAN segmentation and ACL hygiene
 - IDS/IPS tuning for noisy networks without losing true positives
 - Zero-trust-aligned access control: least-privilege and policy reviews
-
-## Visual
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text=Packets%20Tell%20Stories&width=900&height=180" alt="Packets tell stories banner"/>
-</p>
 
 ## Certifications
 - AWS Solutions Architect Associate
