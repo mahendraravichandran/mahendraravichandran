@@ -1,6 +1,6 @@
 <!-- header image removed for cleaner look; you can add your own graphic here -->
 <h1 align="center">
-  **Mahendra Ravichandran**
+  Mahendra Ravichandran
 </h1>
 <p align="center">
   Cybersecurity Analytics & Operations student at Penn State | Security Operations Engineer
