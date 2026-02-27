@@ -20,16 +20,9 @@ Master's student in Cybersecurity Analytics & Operations at Penn State (GPA 3.89
 ---
 
 ## � Professional Experience
-**Workato** – Security Operations Engineer (Sep 2023 – Apr 2024)
-- Monitored 10M+ daily logs in OpenSearch, triaging alerts across authentication, network, proxy, and endpoint data; cut triage time by 25%.
-- Validated & tuned detections in SIEM, SentinelOne EDR, and Zscaler, reducing false positives by 20%.
-- Investigated threats with SentinelOne (95% resolution) and enforced Zscaler policies to reduce noise 35%.
-- Analyzed proxy/DNS/sandbox logs for malicious domains and phishing, supported IAM access remediation, and monitored Okta for suspicious logins.
-- Authored SOC playbooks and documentation, improving onboarding and response consistency.
+During my time at **Workato** I operated within the security operations center, handling alert triage, detection tuning, endpoint investigations, and policy enforcement across products like SentinelOne and Zscaler. I also documented playbooks and helped streamline incident response.
 
-**Trainocate** – System Design Associate (Jun 2023 – Aug 2023)
-- Built VMware ESXi lab environments for SOC training and analyzed network/security logs.
-- Used Wireshark and IDS outputs to validate alerts and troubleshoot routing issues.
+At **Trainocate** I built and maintained virtual lab environments for hands‑on SOC training while analyzing traffic and IDS logs to support security exercises.
 
 ---
 
@@ -49,11 +42,13 @@ Master's student in Cybersecurity Analytics & Operations at Penn State (GPA 3.89
 ---
 
 ## 🎓 Certifications
-- CompTIA Security+
-- AWS Solutions Architect – Associate
-- Blue Team Level 1 (Security Blue Team)
-- CCNA
-- Burp Suite Certified Practitioner (in progress)
+<div align="center">
+  <img src="https://img.shields.io/badge/CompTIA_Security%2B-Targeted-blue?logo=comptia&style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS_SAA-Orange?logo=aws&style=flat-square" />
+  <img src="https://img.shields.io/badge/Blue_Team_L1-Blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/CCNA-Red?logo=cisco&style=flat-square" />
+  <img src="https://img.shields.io/badge/Burp_Suite-IPurple?style=flat-square" />
+</div>
 
 
 ---
@@ -76,15 +71,6 @@ Master's student in Cybersecurity Analytics & Operations at Penn State (GPA 3.89
 - Structured data structures & algorithms practice for interviews
 ➡️ [GitHub repo](https://github.com/mahendraravichandran/DSA)
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahendraravichandran&show_icons=true&theme=radical" />
-</p>
-
-
----
 
 ## 📬 Contact Me
 - LinkedIn: https://www.linkedin.com/in/mahendraravi/
