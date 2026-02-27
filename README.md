@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:1d4ed8,100:22d3ee&text=Mahendra%20Ravichandran&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Security%20Engineer%20%7C%20Detection%20Engineering%20%7C%20SOC%20Operations&descAlignY=62&descSize=16" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:1d4ed8,100:22d3ee&text=Mahendra%20Ravichandran&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Security%20Engineer%20%7C%20SOC%20Operations%20%7C%20Incident%20Response&descAlignY=62&descSize=16" alt="Header"/>
 </p>
 
 <p align="center">
@@ -11,27 +11,26 @@
 ---
 
 ## About
-Security engineer with hands-on SOC experience, networking fundamentals, and graduate training in Cybersecurity Analytics & Operations (Penn State). I focus on building high-signal detections, resilient playbooks, secure-by-default code paths, and automation that keeps response fast without burning out analysts.
+Security engineer with hands-on SOC experience, networking fundamentals, and graduate training in Cybersecurity Analytics & Operations (Penn State). I focus on building high-signal detections, secure-by-default code paths, and incident response automation that keeps containment fast without burning out analysts.
 
 ## Core Impact
 - Raise detection fidelity and cut false positives through targeted tuning
-- Design incident playbooks that are usable under pressure
-- Automate repetitive SOC workflows with Python/Bash
+- Automate repetitive SOC and incident response workflows with Python/Bash
 - Investigate endpoint, network, and identity telemetry with a threat-first mindset
 - Apply secure coding practices to reduce exploitable surface in tooling and scripts
 
 ## Experience
 **Workato - Security Operations Engineer**  
 - Frontline alert triage, endpoint investigations, and policy enforcement (SentinelOne, Zscaler).  
-- Improved detection quality and response workflows across endpoint and network telemetry; collaborated with engineering to harden controls.  
+- Improved detection quality and response workflows across endpoint and network telemetry; collaborated with engineering to harden controls and IR runbooks.  
 
 **Trainocate - Security Lab Engineer**  
 - Built/maintained blue-team labs aligned to CCNA networking fundamentals.  
 - Analyzed IDS and packet data to strengthen TCP/IP and threat detection skills.  
 
 ## Strengths
-- Detection engineering and alert tuning (SIEM/SOAR)
-- SOC triage and incident response execution
+- Incident response and SOC triage (SIEM/SOAR)
+- Detection engineering and alert tuning
 - Network traffic analysis, packet captures, and TCP/IP fundamentals
 - Security automation with Python and Bash
 - Secure coding and vulnerability-aware development (linting, dependency hygiene, code review)
@@ -42,6 +41,12 @@ Security engineer with hands-on SOC experience, networking fundamentals, and gra
 ## Featured Projects
 - **LogSentinel** - Behavioral anomaly IDS for SOC-style log monitoring. [View](https://github.com/mahendraravichandran/LogSentinel)
 - **PortSwigger Automation** - Python automation for Web Security Academy labs. [View](https://github.com/mahendraravichandran/Portswigger-pyhton-exploytation)
+
+## GitHub Snapshot
+<p align="center">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=mahendraravichandran&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+  <img height="155" src="https://streak-stats.demolab.com?user=mahendraravichandran&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
 
 ## Certifications
 - AWS Solutions Architect Associate
