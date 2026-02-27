@@ -1,14 +1,8 @@
 ﻿<div align="center">
 
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║   █▀▄▀█ ▄▀█ █░█ █▀▀ █▄░█ █▀▄ █▀█ ▄▀█   █▀█ ▄▀█ █░█ █                  ║
-║   █░▀░█ █▀█ █▀█ ██▄ █░▀█ █▄▀ █▀▄ █▀█   █▀▄ █▀█ ▀▄▀ █                  ║
-║                                                                           ║
-║              Security Engineer • Detection Engineering • SOC             ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+# MAHENDRA RAVI
+
+**Security Engineer • Detection Engineering • SOC Operations**
 
 <br>
 
@@ -72,14 +66,6 @@ Deep-diving into network traffic and endpoint behavior
 
 </div>
 
-<table>
-<tr>
-<td width="100%">
-
-<table>
-<tr>
-<td width="100%">
-
 #### Security Operations Engineer @ Workato
 **Production SOC environment • Endpoint & Network Security**
 
@@ -91,10 +77,6 @@ Operating at the frontline of enterprise security, performing alert triage and i
 **Network Security Infrastructure • Traffic Analysis**
 
 Designed and maintained networking lab environments aligned with enterprise security standards. Specialized in network traffic analysis, IDS log correlation, and reinforcing TCP/IP security fundamentals through hands-on threat detection scenarios.
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -163,14 +145,6 @@ Vulnerability Analysis
 
 <table>
 <tr>
-<td width="100%">
-
-<table>
-<tr>
-<td width="100%">
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 **✓ Certified**
@@ -189,10 +163,6 @@ Vulnerability Analysis
 </tr>
 </table>
 
-</td>
-</tr>
-</table>
-
 <br>
 
 <div align="center">
@@ -200,14 +170,6 @@ Vulnerability Analysis
 ### 『 FEATURED PROJECTS 』
 
 </div>
-
-<table>
-<tr>
-<td width="100%">
-
-<table>
-<tr>
-<td width="100%">
 
 <details>
 <summary><b>🔍 LogSentinel</b> — Behavioral Intrusion Detection System</summary>
@@ -225,10 +187,6 @@ Academic exploration of web application vulnerabilities through PortSwigger's pl
 <code>Python</code> <code>Web Security</code> <code>Vulnerability Research</code>
 </details>
 
-</td>
-</tr>
-</table>
-
 <br>
 
 <div align="center">
@@ -236,14 +194,6 @@ Academic exploration of web application vulnerabilities through PortSwigger's pl
 ### 『 CURRENTLY EXPLORING 』
 
 </div>
-
-<table>
-<tr>
-<td width="100%">
-
-<table>
-<tr>
-<td width="100%">
 
 ```python
 interests = {
@@ -253,10 +203,6 @@ interests = {
     "Development": ["Secure coding", "CI/CD security", "Container security"]
 }
 ```
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -288,14 +234,6 @@ I believe the best security engineers combine deep technical knowledge with prac
 
 </div>
 
-<table>
-<tr>
-<td width="100%">
-
-<table>
-<tr>
-<td width="100%">
-
 I'm interested in opportunities related to:
 
 **Security Engineering** roles focused on detection and automation  
@@ -312,10 +250,6 @@ Whether you're looking to collaborate on security projects or discuss opportunit
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahiravi3690@gmail.com)
 
 </div>
-
-</td>
-</tr>
-</table>
 
 <br>
 
