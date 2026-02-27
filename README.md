@@ -51,11 +51,6 @@ Security engineer with hands-on SOC experience and a graduate focus in Cybersecu
 - CCNA (in progress)
 - Burp Suite track (in progress)
 
-## Fit for Security Engineer Roles
-- Pair operational SOC experience with a builder mindset.  
-- Prefer maintainable controls and documentation over one-off fixes.  
-- Communicate clearly with playbooks, runbooks, and process design.  
-
 ## Contact
 If you are hiring for Security Engineer or Detection Engineer roles, I would welcome a conversation.  
 - LinkedIn: https://www.linkedin.com/in/mahendraravi/  
