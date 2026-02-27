@@ -1,10 +1,9 @@
+<!-- header image removed for cleaner look; you can add your own graphic here -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/mahendraravichandran/mahendraravichandran/main/assets/header.png" alt="header" width="600" />
-  <br/>
   **Mahendra Ravichandran**
 </h1>
 <p align="center">
-  _Cybersecurity • SOC / Detection Engineering • AppSec • Penn State_
+  Cybersecurity Analytics & Operations student at Penn State | Security Operations Engineer
 </p>
 
 <p align="center">
@@ -16,29 +15,45 @@
 ---
 
 ## 👋 About Me
-I’m a cybersecurity enthusiast currently studying at Penn State with hands-on experience in security operations, detection engineering, and application security. My passion lies in building realistic, analyst-friendly tools and automations that help teams spot suspicious behavior faster.
+Master's student in Cybersecurity Analytics & Operations at Penn State (GPA 3.89), passionate about SOC workflows, detection engineering, and practical security tooling. Professional experience includes monitoring high-volume security telemetry, tuning detections, and building labs for security training.
 
 ---
 
-## 🔧 Experience & Tech Stack
+## � Professional Experience
+**Workato** – Security Operations Engineer (Sep 2023 – Apr 2024)
+- Monitored 10M+ daily logs in OpenSearch, triaging alerts across authentication, network, proxy, and endpoint data; cut triage time by 25%.
+- Validated & tuned detections in SIEM, SentinelOne EDR, and Zscaler, reducing false positives by 20%.
+- Investigated threats with SentinelOne (95% resolution) and enforced Zscaler policies to reduce noise 35%.
+- Analyzed proxy/DNS/sandbox logs for malicious domains and phishing, supported IAM access remediation, and monitored Okta for suspicious logins.
+- Authored SOC playbooks and documentation, improving onboarding and response consistency.
+
+**Trainocate** – System Design Associate (Jun 2023 – Aug 2023)
+- Built VMware ESXi lab environments for SOC training and analyzed network/security logs.
+- Used Wireshark and IDS outputs to validate alerts and troubleshoot routing issues.
+
+---
+
+## 🛠️ Security Tools & Technologies
 <div align="center">
+  <img src="https://img.shields.io/badge/Splunk-FF5722?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenSearch-FF6600?style=flat-square" />
+  <img src="https://img.shields.io/badge/SentinelOne-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Zscaler-037dd6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Okta-0075CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireshark-0078D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&style=flat-square" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-00000F?logo=mysql&style=flat-square" />
-  <img src="https://img.shields.io/badge/Splunk-FF5722?style=flat-square&logo=splunk" />
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?logo=elastic&style=flat-square" />
-  <img src="https://img.shields.io/badge/Wireshark-0078D4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&style=flat-square" />
 </div>
-
 
 ---
 
 ## 🎓 Certifications
-- 🎖 **Blue Team Level 1 (BTL1)**
-- 📜 _Additional certs can be listed here_ (e.g., CompTIA Security+, OSCP, etc.)
+- CompTIA Security+
+- AWS Solutions Architect – Associate
+- Blue Team Level 1 (Security Blue Team)
+- CCNA
+- Burp Suite Certified Practitioner (in progress)
 
 
 ---
