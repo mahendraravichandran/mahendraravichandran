@@ -1,260 +1,54 @@
-﻿<div align="center">
+﻿<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:1d4ed8,100:22d3ee&text=Mahendra%20Ravichandran&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Security%20Engineer%20%7C%20Detection%20Engineering%20%7C%20SOC%20Operations&descAlignY=62&descSize=16" alt="Header"/>
+</p>
 
-# MAHENDRA RAVI
-
-**Security Engineer • Detection Engineering • SOC Operations**
-
-<br>
-
-*Building intelligent defenses through detection engineering, automation, and security operations*
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendraravi/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahiravi3690@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahendraravi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mahiravi3690@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/mahendraravichandran"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-<div align="center">
+## About
+Security engineer with hands-on SOC experience and graduate training in Cybersecurity Analytics & Operations (Penn State). I focus on building high-signal detections, resilient playbooks, and automation that keeps response fast without burning out analysts.
 
-### 『 WHAT I DO 』
+## Core Impact
+- Raise detection fidelity and cut false positives through targeted tuning
+- Design incident playbooks that are usable under pressure
+- Automate repetitive SOC workflows with Python/Bash
+- Investigate endpoint, network, and identity telemetry with a threat-first mindset
 
-</div>
+## Experience
+**Workato - Security Operations Engineer**  
+- Frontline alert triage, endpoint investigations, and policy enforcement (SentinelOne, Zscaler).  
+- Improved detection quality and response workflows across endpoint and network telemetry.  
 
-<table>
-<tr>
-<td width="100%" align="center">
+**Trainocate - Security Lab Engineer**  
+- Built/maintained blue-team labs aligned to CCNA networking fundamentals.  
+- Analyzed IDS and packet data to strengthen TCP/IP and threat detection skills.  
 
-I transform security telemetry into actionable intelligence. Currently pursuing my **Master's in Cybersecurity Analytics and Operations** at Penn State, I specialize in:
+## Strengths
+- Detection engineering and alert tuning
+- SOC triage and incident response execution
+- Network traffic analysis and TCP/IP fundamentals
+- Security automation with Python and Bash
+- Secure coding and vulnerability-aware development
 
-<br>
+## Toolkit
+`Splunk` `OpenSearch` `Elastic Stack` `SentinelOne` `Zscaler` `Okta` `Wireshark` `Python` `Bash` `Linux` `Docker` `AWS` `Git`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Featured Projects
+- **LogSentinel** - Behavioral anomaly IDS for SOC-style log monitoring. [View](https://github.com/mahendraravichandran/LogSentinel)
+- **PortSwigger Automation** - Python automation for Web Security Academy labs. [View](https://github.com/mahendraravichandran/Portswigger-pyhton-exploytation)
 
-**Detection Engineering**  
-Crafting high-fidelity alerts that cut through noise
-
-**SOC Operations**  
-Real-world triage, investigation, and incident response
-
-</td>
-<td width="50%" valign="top">
-
-**Security Automation**  
-Building Python tools that scale security operations
-
-**Threat Analysis**  
-Deep-diving into network traffic and endpoint behavior
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### 『 PROFESSIONAL EXPERIENCE 』
-
-</div>
-
-#### Security Operations Engineer @ Workato
-**Production SOC environment • Endpoint & Network Security**
-
-Operating at the frontline of enterprise security, performing alert triage and incident response with tools like SentinelOne and Zscaler. Focused on detection quality through continuous alert tuning and strengthening response workflows across endpoint and network telemetry.
-
-<br>
-
-#### Security Lab Engineer @ Trainocate
-**Network Security Infrastructure • Traffic Analysis**
-
-Designed and maintained networking lab environments aligned with enterprise security standards. Specialized in network traffic analysis, IDS log correlation, and reinforcing TCP/IP security fundamentals through hands-on threat detection scenarios.
-
-<br>
-
-<div align="center">
-
-### 『 TECHNICAL ARSENAL 』
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Security Operations**
-```
-Splunk
-OpenSearch
-Elastic Stack
-SentinelOne
-Zscaler
-Okta
-```
-
-**Detection & Analysis**
-```
-SIEM Engineering
-Alert Tuning
-Threat Hunting
-Log Analysis
-Wireshark
-```
-
-</td>
-<td width="50%" valign="top">
-
-**Development & Automation**
-```
-Python
-Bash
-Git
-Linux
-Docker
-AWS
-```
-
-**Foundations**
-```
-TCP/IP
-Network Security
-VLAN Segmentation
-Secure Coding
-Vulnerability Analysis
-```
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### 『 CERTIFICATIONS & CONTINUOUS LEARNING 』
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**✓ Certified**
+## Certifications
 - AWS Solutions Architect Associate
-- Blue Team Level 1 (BTL1)
-- CompTIA Security+
+- Blue Team Level 1
+- CompTIA Security+ (targeted)
+- CCNA (in progress)
+- Burp Suite track (in progress)
 
-</td>
-<td width="50%" valign="top">
-
-**⏳ In Progress**
-- Cisco CCNA
-- Burp Suite Certified Practitioner
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### 『 FEATURED PROJECTS 』
-
-</div>
-
-<details>
-<summary><b>🔍 LogSentinel</b> — Behavioral Intrusion Detection System</summary>
-<br>
-Building intelligent detection capabilities for behavioral anomalies in security logs. Focus on pattern recognition and automated threat identification.
-<br><br>
-<code>Python</code> <code>Detection Engineering</code> <code>Behavioral Analysis</code>
-</details>
-
-<details>
-<summary><b>🌐 PortSwigger Python Exploitation</b> — Web Security Research</summary>
-<br>
-Academic exploration of web application vulnerabilities through PortSwigger's platform, developing secure coding awareness and exploitation techniques.
-<br><br>
-<code>Python</code> <code>Web Security</code> <code>Vulnerability Research</code>
-</details>
-
-<br>
-
-<div align="center">
-
-### 『 CURRENTLY EXPLORING 』
-
-</div>
-
-```python
-interests = {
-    "Detection Engineering": ["SIGMA rules", "Custom detections", "False positive reduction"],
-    "Automation": ["Security orchestration", "Python tooling", "Log parsing"],
-    "Blue Team": ["Threat hunting", "Incident response", "Forensics"],
-    "Development": ["Secure coding", "CI/CD security", "Container security"]
-}
-```
-
-<br>
-
-<div align="center">
-
-### 『 PHILOSOPHY 』
-
-</div>
-
-<table>
-<tr>
-<td width="100%">
-
-> *"Security is not about eliminating all risks—it's about understanding them well enough to make informed decisions and respond effectively when things go wrong."*
-
-<br>
-
-I believe the best security engineers combine deep technical knowledge with practical operational experience. My approach focuses on building sustainable security programs through automation, continuous improvement, and collaboration.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### 『 LET'S CONNECT 』
-
-</div>
-
-I'm interested in opportunities related to:
-
-**Security Engineering** roles focused on detection and automation  
-**SOC Operations** with emphasis on advanced threat detection  
-**Detection Engineering** positions building enterprise security capabilities
-
-<br>
-
-Whether you're looking to collaborate on security projects or discuss opportunities, feel free to reach out:
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahendraravi/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahiravi3690@gmail.com)
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-<sub>🔒 Securing systems, one detection at a time</sub>
-</div>
+## Let's Talk
+I'm interested in Security Engineer and Detection Engineer roles.  
+Reach out on LinkedIn or email; best discussions start with a real problem statement and end with a better runbook.
