@@ -46,8 +46,8 @@ At **Trainocate** I built and maintained virtual lab environments for hands‑on
   <img src="https://img.shields.io/badge/CompTIA_Security%2B-Targeted-blue?logo=comptia&style=flat-square" />
   <img src="https://img.shields.io/badge/AWS_SAA-Orange?logo=aws&style=flat-square" />
   <img src="https://img.shields.io/badge/Blue_Team_L1-Blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/CCNA-Red?logo=cisco&style=flat-square" />
-  <img src="https://img.shields.io/badge/Burp_Suite-IPurple?style=flat-square" />
+  <img src="https://img.shields.io/badge/CCNA-in\-progress-lightgrey?logo=cisco&style=flat-square" />
+  <img src="https://img.shields.io/badge/Burp\ Suite-in\-progress-lightgrey?style=flat-square" />
 </div>
 
 
