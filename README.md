@@ -47,10 +47,15 @@ I’m a cybersecurity enthusiast currently studying at Penn State with hands-on 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahendraravichandran&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahendraravichandran&show_icons=true&theme=radical" />
 </p>
+
+---
+
+## 📈 Visualizations
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahendraravichandran" />
+  <!-- You can replace this GIF with your own project/demo visualization -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="visualization" width="600" />
 </p>
 
 ---
